@@ -3,3 +3,5 @@ matplotlib.pyplot
 Pandas
 numpy
 seaborn
+geopandas
+sklearn
